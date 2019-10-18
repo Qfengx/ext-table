@@ -1,3 +1,9 @@
+# vscode
+.vscode
+
+# yarn
+yarn.lock
+
 # Logs
 logs
 *.log
